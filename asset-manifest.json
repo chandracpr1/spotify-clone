@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chandracpr1.io/spotify-clone/static/css/main.b1fa6ef5.css",
+    "main.js": "/chandracpr1.io/spotify-clone/static/js/main.a71ffe92.js",
+    "static/js/787.a142c313.chunk.js": "/chandracpr1.io/spotify-clone/static/js/787.a142c313.chunk.js",
+    "index.html": "/chandracpr1.io/spotify-clone/index.html",
+    "main.b1fa6ef5.css.map": "/chandracpr1.io/spotify-clone/static/css/main.b1fa6ef5.css.map",
+    "main.a71ffe92.js.map": "/chandracpr1.io/spotify-clone/static/js/main.a71ffe92.js.map",
+    "787.a142c313.chunk.js.map": "/chandracpr1.io/spotify-clone/static/js/787.a142c313.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1fa6ef5.css",
+    "static/js/main.a71ffe92.js"
+  ]
+}
