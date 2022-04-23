@@ -1,0 +1,51 @@
+.songRow {
+  margin-left: 20px;
+  padding: 20px;
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-between;
+  z-index: 100;
+  color: white;
+}
+
+.songRow :hover {
+  cursor: pointer;
+  /* background-color: black; */
+  opacity: 0.8;
+}
+
+.songRow__info {
+  flex: 0.5;
+  margin-left: 20px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+.songRow__info h1 {
+  font-size: 16px;
+}
+
+.songRow__info p {
+  font-size: 14px;
+  margin-top: 3px;
+  color: gray;
+}
+
+.songRow__album {
+  flex: 0.1;
+  height: 40px;
+  width: 40px;
+  object-fit: contain;
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* .album {
+  text-align: left;
+} */
+.songRow__info_album {
+  flex: 0.3;
+}
+
+.songRow__info_duration {
+  flex: 0.1;
+}
